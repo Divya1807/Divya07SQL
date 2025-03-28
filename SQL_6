@@ -1,0 +1,4 @@
+6.Write a query to select all the distinct companies (company_name) in the Works table.
+Table name: Works.
+	
+CODE= select Distinct company_name from Works;
