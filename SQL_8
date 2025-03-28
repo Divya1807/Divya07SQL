@@ -1,0 +1,4 @@
+8.Write a query to select only the movie names where the ratings are greater than 7 but less than 9.
+Table: Cinema
+	
+CODE= select Movie_name from Cinema where 9>Rating and Rating>7;
